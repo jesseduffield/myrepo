@@ -1,3 +1,4 @@
+puts 'here we go!'
 while true
   i1 = rand(10)
   i2 = rand(10)
