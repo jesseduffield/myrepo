@@ -1,6 +1,7 @@
 puts 'here we go!'
 puts 'how hard do you want this to be?'
 max = gets.to_i
+puts "you set the difficulty to #{max}"
 while true
   i1 = rand(max)
   i2 = rand(max)
